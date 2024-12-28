@@ -6,8 +6,6 @@
 <p align="center">
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
 <h1 align="center">Hello, Everyone</h1> 
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
