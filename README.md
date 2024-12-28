@@ -91,6 +91,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lighteros&theme=algolia" alt="Lighteros" />
+</p>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lighteros&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 I am always open to work!!!!
