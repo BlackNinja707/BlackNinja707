@@ -1,12 +1,10 @@
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Welcome To My Profile. </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/></p>
 
-
-
 <p align="center">
+  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
 </p>
-
-<h1 align="center">Hello, Everyone</h1> 
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
 
