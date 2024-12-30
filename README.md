@@ -29,6 +29,13 @@ Experienced Web Developer adept in all stages of advanced web development with 8
 - 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
   - 🏗️ Experimenting with new frameworks and languages to stay ahead in the fast-paced tech landscape.
 
+## Goals
+- 🤔 I’m looking forward to connecting and exchanging ideas with other developers in the tech community.
+  - 🤝 Open to mentorship opportunities, peer programming sessions, and tech meetups.
+  - 🔄 Keen on contributing to open source projects and participating in coding challenges.
+
+Feel free to reach out if you're interested in collaborating or just want to chat about tech!
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <table>
