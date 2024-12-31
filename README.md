@@ -3,17 +3,13 @@
 <p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/></p>
 
 <p align="center">
-  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
+  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20developing%20experience%20from%20Japan;&center=true&width=800&height=60"></a>
 </p>
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://t.me/in/neverUB)
-<!-- [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=)](https://discord.com/__arshad_m_qureshi__)  -->
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/neverUB)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=)](haruki.tan98@gmail.com)
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=)](https://x.com/H_Tanaka98)
-<!-- [![Slack](https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=)](https://twitter.com/ArshadMQ)
-[![Outlook](https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=)](mailto:connect.arshadmq@outlook.com)
-[![WhatsApp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=)]() -->
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
 
