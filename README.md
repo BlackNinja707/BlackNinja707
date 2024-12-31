@@ -11,6 +11,7 @@
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=)](mailto:haruki.tan98@gmail.com)
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=)](https://x.com/H_Tanaka98)
 
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
 
 # About Me
 
@@ -25,11 +26,6 @@ Experienced Web Developer adept in all stages of advanced web development with 8
   - 📜 Writing **Solidity & Rust, Move, FunC Contracts** with a strong emphasis on **security** and **gas optimization**.
   - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
   - DL/ML
-## On the Horizon
-- 🌱 I'm currently delving into the world of **Technical Content Writing**.
-  - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
-- 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
-  - 🏗️ Experimenting with new frameworks and languages to stay ahead in the fast-paced tech landscape.
 
 ## Goals
 - 🤔 I’m looking forward to connecting and exchanging ideas with other developers in the tech community.
