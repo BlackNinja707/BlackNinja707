@@ -3,12 +3,12 @@
 <p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/></p>
 
 <p align="center">
-  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20developing%20experience%20from%20Japan;&center=true&width=800&height=60"></a>
+  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer%20from%20Japan;8+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
 </p>
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/neverUB)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=)](haruki.tan98@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=)](mailto:arshadq118@gmail.com)
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=)](https://x.com/H_Tanaka98)
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
@@ -41,7 +41,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
 
 Feel free to reach out if you're interested in collaborating or just want to chat about tech!
 
-### 🛠 &nbsp;Languages and Tools :
+### 💻 &nbsp;Languages and Tools :
 
 <table>
   <tr>
@@ -105,7 +105,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
   />
 </picture>
 
-### 🔥 &nbsp; My Stats :
+### 📊 &nbsp;My Stats:
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lighteros&theme=algolia" alt="Lighteros" />
 </p>
