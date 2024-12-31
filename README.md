@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/neverUB)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](harukitan98@gmail.com)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=)](mailto:haruki.tan98@gmail.com)
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=)](https://x.com/H_Tanaka98)
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
