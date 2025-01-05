@@ -212,7 +212,9 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ### 📊 &nbsp;My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlackNinja&theme=tokyonight)](https://git.io/streak-stats)
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lighteros&theme=algolia" alt="BlackNinja" />
+</p>
 
 ### 🔝 Most Used Languages
 <p>
