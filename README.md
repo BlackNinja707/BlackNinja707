@@ -95,6 +95,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Figma
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
+      <br>vscode
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
       <br>TypeScript
     </td>
@@ -110,12 +114,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="55" height="55" />
       <br>Vue
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=golang" alt="icon" width="55" height="55" />
       <br>Golang
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="55" height="55" />
       <br>Solidity
@@ -133,8 +137,8 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Nextjs
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=netlify" alt="icon" width="55" height="55" />
-      <br>Netlify
+      <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="55" height="55" />
+      <br>Laravel
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
@@ -145,15 +149,15 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Ruby
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="55" height="55" />
-      <br>Postgres
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="55" height="55" />
       <br>Angular
     </td>
   </tr>
   <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="55" height="55" />
+      <br>Postgres
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
       <br>MongoDB
@@ -207,9 +211,8 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### 📊 &nbsp;My Stats:
-<p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BlackNinja&theme=tokyonight" alt="BlackNinja" /></a>
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlackNinja&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 🔝 Most Used Languages
 <p>
