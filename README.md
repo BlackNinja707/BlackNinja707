@@ -12,7 +12,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> Currently
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> Currently
 - 🔭 I'm employed as a **Software Engineer** where I play a pivotal role in contributing to both the frontend and backend aspects of our web applications.
   - 💼 Building user interfaces with a focus on **usability** and **performance**.
   - 🛠️ Developing server-side logic that scales well and integrates seamlessly with various databases and services.
@@ -21,7 +21,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
   - 📜 Writing **Solidity & Rust, Move, FunC Contracts** with a strong emphasis on **security** and **gas optimization**.
   - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
   - DL/ML
-## On the Horizon
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center />  On the Horizon
 - 🌱 I'm currently delving into the world of **Technical Content Writing**.
   - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
 - 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
