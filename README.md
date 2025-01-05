@@ -208,7 +208,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ### 📊 &nbsp;My Stats:
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackNinja&theme=tokyonight" alt="BlackNinja" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BlackNinja&theme=tokyonight" alt="BlackNinja" /></a>
 </p>
 
 ### 🔝 Most Used Languages
