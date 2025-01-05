@@ -41,6 +41,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
+      <br>C
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
       <br>C++
     </td>
@@ -72,12 +76,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
       <br>Express
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
       <br>django
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
       <br>GitHub
@@ -110,12 +114,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=golang" alt="icon" width="55" height="55" />
       <br>Golang
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="55" height="55" />
       <br>Solidity
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
@@ -165,10 +169,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="55" height="55" />
       <br>Dart
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
-      <br>C
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="55" height="55" />
