@@ -61,6 +61,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>CSS
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=qt" alt="icon" width="55" height="55" />
+      <br>Qt
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
       <br>Node Js
     </td>
@@ -98,6 +102,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
       <br>Vite
     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="55" height="55" />
+      <br>Vue
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=golang" alt="icon" width="55" height="55" />
       <br>Golang
@@ -105,10 +113,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="55" height="55" />
       <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=qt" alt="icon" width="55" height="55" />
-      <br>Qt
     </td>
   </tr>
   <tr>
@@ -178,10 +182,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
       <br>Redux
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="55" height="55" />
-      <br>Vue
-    </td>
   </tr>
 </table>
 <br />
@@ -208,17 +208,18 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ### 📊 &nbsp;My Stats:
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=BlackNinja&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" alt="BlackNinja" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackNinja&theme=tokyonight" alt="BlackNinja" />
 </p>
 
-# 🔝 Most Used Languages
+### 🔝 Most Used Languages
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lighteros&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 </p>
 
-I am always open to work!!!
-
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+### I am always open to work!!!
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
