@@ -49,20 +49,20 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React Js
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
       <br>HTML
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
       <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <br>React Js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=qt" alt="icon" width="55" height="55" />
