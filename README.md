@@ -65,19 +65,27 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>React Js
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=qt" alt="icon" width="55" height="55" />
       <br>Qt
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>Express
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
       <br>Node Js
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
-      <br>Express
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
       <br>django
@@ -97,14 +105,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="55" height="55" />
       <br>vscode
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
-      <br>Tailwind
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
