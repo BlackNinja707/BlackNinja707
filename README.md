@@ -41,16 +41,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 <table align="center" class="table table-dark">
   <tr bg-dark>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
+      <br>C
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
       <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
-      <br>React Js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
@@ -59,6 +55,14 @@ Feel free to reach out if you're interested in collaborating or just want to cha
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
       <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <br>React Js
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=qt" alt="icon" width="55" height="55" />
@@ -72,12 +76,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
       <br>Express
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=django" alt="icon" width="55" height="55" />
       <br>django
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
       <br>GitHub
@@ -110,12 +114,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=golang" alt="icon" width="55" height="55" />
       <br>Golang
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="55" height="55" />
       <br>Solidity
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=python" alt="icon" width="55" height="55" />
       <br>Python
@@ -166,10 +170,6 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="55" height="55" />
       <br>Dart
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
-      <br>C
-    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="55" height="55" />
       <br>Photoshop
@@ -208,7 +208,7 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 
 ### 📊 &nbsp;My Stats:
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=BlackNinja&theme=tokyonight" alt="BlackNinja" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=BlackNinja&theme=tokyonight" alt="BlackNinja" /></a>
 </p>
 
 ### 🔝 Most Used Languages
