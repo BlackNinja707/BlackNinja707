@@ -141,6 +141,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Nextjs
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
+      <br>aws
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="55" height="55" />
       <br>Laravel
     </td>
@@ -148,12 +152,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
       <br>Redux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="55" height="55" />
       <br>Ruby
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="55" height="55" />
       <br>Angular
@@ -179,12 +183,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Dart
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="55" height="55" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
       <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="55" height="55" />
+      <br>Photoshop
     </td>
   </tr>
 </table>
