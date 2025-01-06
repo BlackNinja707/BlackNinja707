@@ -57,6 +57,10 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>CSS
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
       <br>JavaScript
     </td>
@@ -72,12 +76,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="55" height="55" />
       <br>TypeScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=qt" alt="icon" width="55" height="55" />
       <br>Qt
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
       <br>Express
@@ -110,12 +114,12 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="55" height="55" />
       <br>Vite
     </td>
-     <td align="center" width="90">
+  </tr>
+  <tr>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="55" height="55" />
       <br>Vue
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=golang" alt="icon" width="55" height="55" />
       <br>Golang
@@ -141,19 +145,19 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
-      <br>Vercel
+      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
+      <br>Redux
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="55" height="55" />
       <br>Ruby
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="55" height="55" />
       <br>Angular
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="55" height="55" />
       <br>Postgres
@@ -179,12 +183,8 @@ Feel free to reach out if you're interested in collaborating or just want to cha
       <br>Photoshop
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="55" height="55" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="55" height="55" />
-      <br>Redux
+      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
+      <br>Vercel
     </td>
   </tr>
 </table>
