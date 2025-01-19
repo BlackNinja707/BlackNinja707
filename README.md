@@ -6,7 +6,7 @@
   <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer%20from%20Japan;8+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
 </p>
 
-# About Me:
+# ✍️ About Me:
 
 Experienced Web Developer adept in all stages of advanced web development with 8+ years experience building smart websites and 5+ years working with Blockchain technologies. Quickly learn and master new technologies and working in both team and self-directed settings. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. As a problem solver, I always strive to deliver good value to clients and works very well with team members.
 
@@ -22,7 +22,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
   - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
   - DL/ML
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center />  On the Horizon
-- 🌱 I'm currently delving into the world of **Technical Content Writing**.
+- 🌱 I'm currently  delving into the world of **Technical Content Writing**.
   - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
 - 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
   - 🏗️ Experimenting with new frameworks and languages to stay ahead in the fast-paced tech landscape.
