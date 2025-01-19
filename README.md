@@ -1,4 +1,5 @@
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">I'm Haruki Tanaka</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackninja707&label=Profile%20views&color=0e75b6&style=flat" alt="blackninja707" /> </p>
 
 <p align="center"><img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/></p>
 
@@ -9,6 +10,18 @@
 # ✍️ About Me:
 
 Experienced Web Developer adept in all stages of advanced web development with 8+ years experience building smart websites and 5+ years working with Blockchain technologies. Quickly learn and master new technologies and working in both team and self-directed settings. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. As a problem solver, I always strive to deliver good value to clients and works very well with team members.
+
+
+<p align="left"> <a href="https://twitter.com/x_harukitanaka" target="blank"><img src="https://img.shields.io/twitter/follow/x_harukitanaka?logo=twitter&style=for-the-badge" alt="x_harukitanaka" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [harukitanaka.com](harukitanaka.com)
+
+- 📫 How to reach me **haruki.tan98@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/x_harukitanaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x_harukitanaka" height="30" width="40" /></a>
+</p>
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -217,20 +230,19 @@ Feel free to reach out if you're interested in collaborating or just want to cha
 ### 📊 &nbsp;My Stats:
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lighteros&theme=algolia" alt="BlackNinja" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackninja707&show_icons=true&locale=en" alt="blackninja707" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackninja707&" alt="blackninja707" /></p>
 </p>
 
 ### 🔝 Most Used Languages
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lighteros&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackninja707&show_icons=true&locale=en&layout=compact" alt="blackninja707" /></p>
 </p>
 
 <img width="2500rem" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackninja707" alt="blackninja707" /></a> </p>
 
 ### I am always open to work!!!
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-
